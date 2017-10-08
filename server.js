@@ -1,8 +1,3 @@
-/*
- * Manage Session in Node.js and ExpressJS
- * Author : Shahid Shaikh
- * Version : 0.0.1
-*/
 var express		=	require('express');
 var session		=	require('express-session');
 var bodyParser  	= 	require('body-parser');
